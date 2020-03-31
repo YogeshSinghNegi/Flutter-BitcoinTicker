@@ -28,4 +28,4 @@ const List<String> cryptoList = [
   'LTC',
 ];
 
-class CoinData {}
+const apiKey = '888AD94C-B6CF-4B56-AE2F-E314725A2123';
